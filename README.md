@@ -20,6 +20,7 @@ This problem helps reinforce button handling and GPIO control.
 🎛 Problem 2: 
 
 Potentiometer-Controlled LEDs
+
 Here, I used an analog input to control LED brightness:
 
 1. First half of potentiometer range: Red LED brightness adjusts.
